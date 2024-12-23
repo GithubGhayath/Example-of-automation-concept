@@ -1,0 +1,1 @@
+# Example-of-automation-concept
