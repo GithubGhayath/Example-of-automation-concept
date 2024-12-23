@@ -1,0 +1,16 @@
+C:\Users\ghaya\source\repos\Formatter\bin\Debug\Formatter.exe.config
+C:\Users\ghaya\source\repos\Formatter\bin\Debug\Formatter.exe
+C:\Users\ghaya\source\repos\Formatter\bin\Debug\Formatter.pdb
+C:\Users\ghaya\source\repos\Formatter\bin\Debug\ExcelDataReader.dll
+C:\Users\ghaya\source\repos\Formatter\bin\Debug\ExcelDataReader.pdb
+C:\Users\ghaya\source\repos\Formatter\bin\Debug\ExcelDataReader.xml
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.csproj.AssemblyReference.cache
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.ControlForCopy.resources
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.Form1.resources
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.Properties.Resources.resources
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.csproj.GenerateResource.cache
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.csproj.CoreCompileInputs.cache
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.csproj.CopyComplete
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.exe
+C:\Users\ghaya\source\repos\Formatter\obj\Debug\Formatter.pdb
+C:\Users\ghaya\source\repos\Formatter\bin\Debug\Interop.UIAutomationClient.dll
